@@ -1,7 +1,19 @@
 
 
 
-export default function Testimonials() {
 
+function Testimonials () {
+    return (
+          <>
+       
+          </>
     
-}
+    
+    )
+    
+    
+    
+    
+    }
+    
+    export default Testimonials;

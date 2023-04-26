@@ -1,6 +1,17 @@
 
 
-export default function Contact() {
-
+function Contact () {
+    return (
+          <>
+       
+          </>
     
-}
+    
+    )
+    
+    
+    
+    
+    }
+    
+    export default Contact;

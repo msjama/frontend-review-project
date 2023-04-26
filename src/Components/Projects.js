@@ -1,6 +1,18 @@
 
 
-export default function Projects() {
 
+function Navbar () {
+    return (
+          <>
+       
+          </>
     
-}
+    
+    )
+    
+    
+    
+    
+    }
+    
+    export default Navbar;

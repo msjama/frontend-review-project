@@ -1,6 +1,18 @@
 
 
-export default function Skills() {
 
+function Skills () {
+    return (
+          <>
+       
+          </>
     
-}
+    
+    )
+    
+    
+    
+    
+    }
+    
+    export default Skills;
