@@ -19,3 +19,17 @@ For this project you will build a portfolio website that showcases your projects
 - Documentation: Document the project in a README file that includes the technology stack, features, and an overview of what you learned.
 
 - Code Quality: Write clean, readable, and maintainable code. Follow best practices for coding style, formatting, and organization.
+
+                                                  Mohamed Shuriye Portfolio
+Within my source (src) folder,I am going to create a folder called components with all of the files that we need for my portfolio:
+
+I will the following six
+
+1. Navbar
+2. About 
+3. projects
+4. Skills
+5. Testimoninials
+6. Contacts
+
+The second thing I will give portfolio a dark background with gray text applied to all of mycomponents.
