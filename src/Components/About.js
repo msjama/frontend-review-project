@@ -6,9 +6,11 @@ function About () {
 return (
       <>
     <WelcomeMessage >
-          Welcome to Mohamed's Portfolio
+          Welcome to my Portfolio
     </WelcomeMessage>
       </>
+
+       
 
 
 )
